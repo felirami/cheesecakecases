@@ -1,7 +1,7 @@
 # cheesecakecases
 
-Here I'll upload versions of Cases for the Cheesecake by Sorakage
+Here's the remixed CheeseCake case and Slide holder by Sorakage
 
-Mission is to get the 804040 and 803040 battery fit cases <3
+This case can fit any battery of 50mm height, 41mm width and 9mm thickness. (and of course any other battery that is smaller than those dimensions)
 
 Love from Chile
